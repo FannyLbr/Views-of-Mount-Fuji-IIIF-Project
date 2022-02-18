@@ -1,0 +1,13 @@
+{
+  "id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in FannyLbr/Views-of-Mount-Fuji-IIIF-Project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest.json",
+    "label" : "Four Views of Mount Fuji - Hokusai Katsushika"
+  } ]
+}
