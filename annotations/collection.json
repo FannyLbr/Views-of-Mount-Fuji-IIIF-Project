@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/annotations/0d64bc47a7c4c2930f6431049126b0ff.json" ],
+  "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/annotations/collection.json",
+  "label" : "All annotations loaded in FannyLbr/Views-of-Mount-Fuji-IIIF-Project project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
