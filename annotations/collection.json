@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/annotations/0d64bc47a7c4c2930f6431049126b0ff.json" ],
+  "otherContent" : [ "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/annotations/0d64bc47a7c4c2930f6431049126b0ff.json", "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/annotations/a3faaafb2c7f9fc2a92a7cc4a468a0c1.json" ],
   "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/annotations/collection.json",
   "label" : "All annotations loaded in FannyLbr/Views-of-Mount-Fuji-IIIF-Project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
