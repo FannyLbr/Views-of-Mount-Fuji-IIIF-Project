@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest4.json",
+  "@type" : "sc:Manifest",
+  "label" : "Four Views of Mount Fuji - Hokusai Katsushika",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Four of the thirty-six Views of Mount Fuji prints from Bibliothèque nationale de France, département Estampes et photographie",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Bibliothèque nationale de France, département Estampes et photographie",
+  "sequences" : [ {
+    "@id" : "http://c6c09c06-09cf-4ceb-9e40-d05378c96b95",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9d438ea8-59f4-406a-b856-f7cc38207732",
+      "@type" : "sc:Canvas",
+      "label" : "Red Fuji",
+      "height" : 4138,
+      "width" : 5909,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fb212396-8484-4360-ab9c-499e450a6058",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b105264276/f1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b105264276/f1",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 4138,
+          "width" : 5909
+        },
+        "on" : "http://9d438ea8-59f4-406a-b856-f7cc38207732"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://07af75d3-73ce-48b7-858e-6ae98019d949",
+      "@type" : "sc:Canvas",
+      "label" : "Kajikazawa in Kai Province",
+      "height" : 4189,
+      "width" : 6177,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://dad8794a-4a4b-4889-a758-c3c67fb10358",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b105264382/f1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b105264382/f1",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 4189,
+          "width" : 6177
+        },
+        "on" : "http://07af75d3-73ce-48b7-858e-6ae98019d949"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0b98c533-f680-4d48-a9c0-af1bc19ed92c",
+      "@type" : "sc:Canvas",
+      "label" : "Tea house at Koishikawa",
+      "height" : 4246,
+      "width" : 6197,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://97fc8d44-7b46-471b-b428-dfbe2f967d12",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b10526547d/f1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b10526547d/f1",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 4246,
+          "width" : 6197
+        },
+        "on" : "http://0b98c533-f680-4d48-a9c0-af1bc19ed92c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bcc6df2d-8d2f-43ff-b9af-9952064ef343",
+      "@type" : "sc:Canvas",
+      "label" : "The Great Wave of Kanagawa",
+      "height" : 4244,
+      "width" : 6258,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://06b5cf8b-f692-458f-baff-7fc6d1375ba6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b10526564w/f1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b10526564w/f1",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 4244,
+          "width" : 6258
+        },
+        "on" : "http://bcc6df2d-8d2f-43ff-b9af-9952064ef343"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
