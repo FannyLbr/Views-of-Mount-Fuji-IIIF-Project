@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest.json",
     "label" : "Four Views of Mount Fuji - Hokusai Katsushika"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest4.json",
+    "label" : "Four Views of Mount Fuji - Hokusai Katsushika"
   } ]
 }
