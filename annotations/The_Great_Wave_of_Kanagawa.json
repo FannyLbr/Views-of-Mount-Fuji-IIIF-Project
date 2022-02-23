@@ -1,0 +1,294 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This is the center of the threatening action. Indeed, the wave of Kanagawa overhangs its prey which are sailors on the foreground and Mount Fuji on the background. A circular movement is created with its little claw-like fingers and ocean-spray pointing to the mountain. Consequently, we have the impression that the monstrous wave is going to swallow sailors first and Mount Fuji then.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This is the center of the threatening action. Indeed, the wave of Kanagawa overhangs its prey which are sailors on the foreground and Mount Fuji on the background. A circular movement is created with its little claw-like fingers and ocean-spray pointing to the mountain. Consequently, we have the impression that the monstrous wave is going to swallow sailors first and Mount Fuji then.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "wave",
+      "@type" : "oa:Tag",
+      "chars" : "wave"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fuji",
+      "@type" : "oa:Tag",
+      "chars" : "Fuji"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sailors",
+      "@type" : "oa:Tag",
+      "chars" : "sailors"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "ocean-spray",
+      "@type" : "oa:Tag",
+      "chars" : "ocean-spray"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92677204",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T17:44:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645551840701",
+    "dcterms:modified" : "2022-02-22T18:07:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1418,407,4159,3546"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5577.30984,3953.22236h-2079.74605v0h-2079.74605v-1772.91981v-1772.91981h2079.74605h2079.74605v1772.91981z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_733e08a8-41e3-4471-9e56-7b3224b75a6d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"41.25395\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bcc6df2d-8d2f-43ff-b9af-9952064ef343"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The huge wave of Kanagawa can be compared to a monster. Its height takes up the length of the print which emphasises its imposing side. It has little claw-like fingers on its extremity. Numerous ocean-spray show the strength and violence of the wave.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The huge wave of Kanagawa can be compared to a monster. Its height takes up the length of the print which emphasises its imposing side. It has little claw-like fingers on its extremity. Numerous ocean-spray show the strength and violence of the wave.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92677204",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T17:25:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645550702471",
+    "dcterms:modified" : "2022-02-22T17:25:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=682,406,3006,1843"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3688.51208,2248.91859h-1503.05022v0h-1503.05022v-921.48414v-921.48414h1503.05022h1503.05022v921.48414z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6f339f81-9c49-4e91-80ec-5817020fda88\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bcc6df2d-8d2f-43ff-b9af-9952064ef343"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Title of the series, followed by the name of the print.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Title of the series, followed by the name of the print.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92677204",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T16:36:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645547805932",
+    "dcterms:modified" : "2022-02-22T16:36:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=404,346,236,881"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M640.01458,1227.4186h-118.2497v0h-118.2497v-440.54617v-440.54617h118.2497h118.2497v440.54617z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_69fb0ef4-f2c1-4ee7-acfa-4cd781ed7957\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bcc6df2d-8d2f-43ff-b9af-9952064ef343"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Thirty-six Views of Mount Fuji.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Thirty-six Views of Mount Fuji.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92677204",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T16:38:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645547937642",
+    "dcterms:modified" : "2022-02-22T16:38:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=426,368,193,461"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M426.00972,367.88635h96.39976v0h96.39976v230.47509v230.47509h-96.39976h-96.39976v-230.47509z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_39c547fc-1071-45f0-b185-1a5c713cb925\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bcc6df2d-8d2f-43ff-b9af-9952064ef343"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Great Wave of Kanagawa.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Great Wave of Kanagawa.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92677204",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T16:37:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645547859742",
+    "dcterms:modified" : "2022-02-22T16:38:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=435,837,184,368"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M619.20979,1204.85784h-91.95475v0h-91.95475v-184.15377v-184.15377h91.95475h91.95475v184.15377z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_baeef39b-58cb-4347-9ac3-c33760993334\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"41.25395\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bcc6df2d-8d2f-43ff-b9af-9952064ef343"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "mountain",
+      "@type" : "oa:Tag",
+      "chars" : "mountain"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fuji",
+      "@type" : "oa:Tag",
+      "chars" : "Fuji"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Snow-covered Mount Fuji.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Snow-covered Mount Fuji.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92677204",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T17:45:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645551930695",
+    "dcterms:modified" : "2022-02-22T17:45:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3856,2640,52,77"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3881.88457,2717.60389c0,-17.18915 8.59457,-34.37829 25.78372,-51.56744c0,-14.23995 -11.54376,-25.78372 -25.78372,-25.78372c-14.23995,0 -25.78372,11.54376 -25.78372,25.78372c17.18915,17.18915 25.78372,34.37829 25.78372,51.56744z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_2d72510a-f448-4f42-b5e9-3627e4794e24\" fill=\"#ff0000\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bcc6df2d-8d2f-43ff-b9af-9952064ef343"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Signature of Hokusai.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Signature of Hokusai.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92677204",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T16:39:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645547960621",
+    "dcterms:modified" : "2022-02-22T16:39:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=165,747,192,614"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M165.33698,747.14126h95.75516v0h95.75516v307.18165v307.18165h-95.75516h-95.75516v-307.18165z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_15ef0ee8-cca7-4bb7-865d-cdf35df0ed80\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bcc6df2d-8d2f-43ff-b9af-9952064ef343"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This little wave imitates the shape of Mount Fuji which is on the background. It is a reminder of the mountain in the foreground.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This little wave imitates the shape of Mount Fuji which is on the background. It is a reminder of the mountain in the foreground.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92677204",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T16:42:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645548125419",
+    "dcterms:modified" : "2022-02-22T17:46:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1113,2295,2164,1194"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3276.54557,3489.11543h-1081.91616v0h-1081.91616v-597.18226v-597.18226h1081.91616h1081.91616v597.18226z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_0bd03278-37ee-4eb8-a9fe-634454c730dd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"41.25395\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bcc6df2d-8d2f-43ff-b9af-9952064ef343"
+    } ]
+  } ],
+  "@id" : "https://FannyLbr.github.io/Views-of-Mount-Fuji-IIIF-Project/annotations/The_Great_Wave_of_Kanagawa.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
